@@ -2,6 +2,7 @@
 
 <img src="https://i.imghippo.com/files/nrIxB1722678212.png">
 
+------
 
 **Situation**
 
@@ -9,6 +10,7 @@ I've just been hired as a Data Analyst at Adventure Works Bike Shop. My first Jo
 
 
 
+-----
 
 **Task**
 
@@ -17,9 +19,9 @@ The Sales Manager dissemate my key tasks to develop an end-to-end data analytics
 I am are expected to Prepare the data (extract, clean, and transform data), Model the data, Analyze and visualize, and provide data-driven insights.
 
 
+-----
+**Action (Objective & Solution)**
 
-**
-Action (Objective & Solution)**
 Utilize Power BI Desktop to:
 - Prepare the data using Power Query, create new dimensions/measures as required
 - Model the data effectively, 
@@ -28,8 +30,8 @@ Utilize Power BI Desktop to:
       - Key Metrices: Revenue, Units Sold, Avg. Selling Price, Profit Margin
        - Breakfown into: Fiscal Year, Category & Business Type, Country
 
-
-
+------
 
 **Result**
+
 Streamlined data processing, echanced data modeling, inisghtful analysis, and actionable insights through an intuitive dashboard interface at a glance
